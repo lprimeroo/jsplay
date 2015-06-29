@@ -32,7 +32,7 @@ fs.readFile(path.resolve(__dirname,"index.html"), function (err, data) {
     indexPage = data;    
 });
 
-// create http server
+// creating server
 http.createServer(function (req, res) {
     
     var reqResource = url.parse(req.url).pathname;
