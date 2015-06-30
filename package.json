@@ -1,5 +1,15 @@
 {
-	"name"	:	"jsplay",
-	"version"	:	"0.0.0",
-	"main"	:	"main.js"
+  "name": "jsplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "window": {
+  	"toolbar": false,
+  	"position": "mouse"
+  	},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarthak Munshi <sarthakmunshi@gmail.com> (http://sarthakm.me/)",
+  "license": "MIT"
 }
