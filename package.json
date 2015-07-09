@@ -7,9 +7,7 @@
   	"toolbar": false,
   	"position": "mouse",
     "width": 800,
-    "height": 500,
-    "min_width": 800,
-    "min_height": 500
+    "height": 500
   	},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
