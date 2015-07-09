@@ -6,8 +6,68 @@ min-width: 100%;
 min-height: 100%;
 width: auto;
 height: auto;
-/*z-index: -100;*/
+z-index: -1;
 -webkit-transform: translateX(-50%) translateY(-50%);
 transform: translateX(-50%) translateY(-50%);
 background-size: cover;
+}
+
+body {
+	overflow: hidden;
+}
+
+div#magnetBox {
+  display: table;
+  
+  /* I want the whole search box
+     to be exactly this wide. */
+  width: 400px;
+  z-index: 1;
+  margin: 10px auto;
+}
+div#magnetBox div.cell {
+  display: table-cell;
+}
+div#magnetBox div.cell:last-child {
+  /* Makes sure this cell is only wide enough
+     for the button label. */
+  width: 1px;
+}
+
+input[type=search], div.button {  
+  width: 100%;
+  height: 35px;
+
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  
+  font-family: inherit;
+  font-size: inherit;
+}
+
+input[type=search] {
+  margin: 0;
+  padding: 0 10px;
+  
+  background-color: #f8f8f8;
+  
+  border: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+div.button {
+  line-height: 35px;
+
+  margin: 0;
+  padding: 0 20px;
+
+  color: #fff;
+  background-color: #FF1717;
+  font-weight: bold;
+  
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  
+  white-space: nowrap;
 }

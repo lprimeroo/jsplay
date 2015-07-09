@@ -1,3 +1,6 @@
-var gui = require('nw.gui') ;
+$(document).ready(function() {
 
-var win = gui.Window.get();
+	$('.button').click(function () {
+		$('#magnetBox').hide() ;
+	}) ;
+}) ;
