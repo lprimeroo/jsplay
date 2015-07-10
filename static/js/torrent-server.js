@@ -3,7 +3,7 @@ var peerflix = require('peerflix'),
     wjs = require("wcjs-player"),
     player = new wjs("#player").addPlayer({ autoplay: true });
 
-//engine.server.on('listening', function() {
-  //  var myLink = 'http://localhost:' + engine.server.address().port + '/';
-    player.addPlaylist('http://archive.org/download/CartoonClassics/Krazy_Kat_-_Keeping_Up_With_Krazy.mp4');
-//});
+engine.server.on('listening', function() {
+    var myLink = 'http://localhost:' + engine.server.address().port + '/';
+    player.addPlaylist(myLink);
+});

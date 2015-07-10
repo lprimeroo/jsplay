@@ -1,16 +1,7 @@
-/*#player{
-position: fixed;
-top: 50%;
-left: 50%;
-min-width: 100%;
-min-height: 100%;
-width: auto;
-height: auto;
-z-index: -1;
--webkit-transform: translateX(-50%) translateY(-50%);
-transform: translateX(-50%) translateY(-50%);
-background-size: cover;
-}*/
+.webchimeras {
+
+height: 100%;
+}
 
 body {
 	/*overflow: hidden;*/
@@ -21,8 +12,8 @@ div#magnetBox {
   
   /* I want the whole search box
      to be exactly this wide. */
-  width: 400px;
-  z-index: 1;
+  width: 100%;
+  z-index: 3;
   margin: 10px auto;
 }
 div#magnetBox div.cell {
