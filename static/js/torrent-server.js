@@ -5,5 +5,5 @@ var peerflix = require('peerflix'),
 
 //engine.server.on('listening', function() {
   //  var myLink = 'http://localhost:' + engine.server.address().port + '/';
-    player.addPlaylist('/Users/sarthakmunshi/Desktop/Game\ of\ Thrones\ -\ Funny\ Moments--_ImFC5Kigk.mp4');
+    player.addPlaylist('http://archive.org/download/CartoonClassics/Krazy_Kat_-_Keeping_Up_With_Krazy.mp4');
 //});

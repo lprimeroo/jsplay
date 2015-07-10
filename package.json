@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.html",
   "window": {
-  	"toolbar": false,
+  	"toolbar": true,
   	"position": "mouse",
     "width": 800,
     "height": 500
