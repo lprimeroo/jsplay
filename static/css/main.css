@@ -1,6 +1,9 @@
 .webchimeras {
-
-height: 100%;
+top: 0;
+min-height: 100%;
+min-width: 100%;
+padding: 0;
+z-index: 0;
 }
 
 body {
