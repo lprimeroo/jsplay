@@ -7,8 +7,9 @@ z-index: 0;
 }
 
 body {
-	/*overflow: hidden;*/
-}
+  background-color: black;
+  overflow-x: hidden; 
+   }
 
 div#magnetBox {
   display: table;
