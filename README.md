@@ -1,12 +1,6 @@
 # jsplay
 A torrent streaming media player built in NW.js with peerflix .
 
-## Interface
-
-1) Add Magnet Link :
-
-
-2) Start Buffering and playing :
 
 ## Issues
 
