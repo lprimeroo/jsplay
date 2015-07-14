@@ -5,7 +5,7 @@
   "main": "index.html",
   "window": {
     "title": "JSplay",
-  	"toolbar": true,
+  	"toolbar": false,
     "icon": "icon.svg",
   	"position": "mouse",
     "width": 800,
