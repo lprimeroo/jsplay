@@ -1,5 +1,5 @@
 # JSplay
-![](http://imgh.us/icon_4.svg)
+
 A torrent streaming media player built in NW.js with peerflix .
 
 ![](http://i.imgur.com/knz1UeL.gif?1 =640x420)
@@ -16,3 +16,4 @@ A torrent streaming media player built in NW.js with peerflix .
 
 3.  Please check for other running torrent clients and close them. Ports collision may occur while the app runs .
 
+![](http://imgh.us/icon_4.svg)
