@@ -1,7 +1,7 @@
 # jsplay
 A torrent streaming media player built in NW.js with peerflix .
 
-<iframe src="http://gifyoutube.com/embed/m8AnZ5" frameborder="0" scrolling="no" width="480" height="270" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+![](http://gifyoutube.com/embed/m8AnZ5)
 
 ## Issues
 
