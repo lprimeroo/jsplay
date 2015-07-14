@@ -1,4 +1,5 @@
 # JSplay
+![](https://raw.githubusercontent.com/saru95/jsplay/master/icon.svg)
 A torrent streaming media player built in NW.js with peerflix .
 
 ![](http://i.imgur.com/knz1UeL.gif?1 =640x420)
