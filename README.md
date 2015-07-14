@@ -1,7 +1,7 @@
 # jsplay
 A torrent streaming media player built in NW.js with peerflix .
 
-![](http://postimg.org/image/mfucujbyn/)
+[url=http://postimg.org/image/mfucujbyn/][img]http://s11.postimg.org/mfucujbyn/bloggif_55a509f8ea4eb.jpg[/img][/url]
 ## Install
   Download the binaries here : 
 
