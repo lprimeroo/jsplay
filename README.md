@@ -1,7 +1,10 @@
 # jsplay
 A torrent streaming media player built in NW.js with peerflix .
 
-![](http://gifyoutube.com/embed/m8AnZ5)
+![](http://postimg.org/image/mfucujbyn/)
+## Install
+  Download the binaries here : 
+
 
 ## Issues
 
@@ -10,5 +13,4 @@ A torrent streaming media player built in NW.js with peerflix .
 2. I am using the WebChimera player currently and working on a custom HTML5 player with a libvlc wrapper .
 
 3.  Please check for other running torrent clients and close them. Ports collision may occur while the app runs .
-
 
