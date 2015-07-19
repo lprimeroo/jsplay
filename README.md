@@ -2,7 +2,7 @@
 
 A torrent streaming media player built in NW.js with peerflix .
 
-![](http://i.imgur.com/knz1UeL.gif?1 =640x420)
+![](http://i.imgur.com/JRh06Gm.gif?1)
 
 ## Install
   Download the binaries here : 
