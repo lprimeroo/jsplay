@@ -5,23 +5,26 @@
   "main": "index.html",
   "window": {
     "title": "JSplay",
-  	"toolbar": true,
+    "toolbar": false,
     "icon": "icon.svg",
-  	"position": "mouse",
+    "position": "mouse",
     "width": 800,
     "height": 550,
     "min_height": 500,
     "min_width": 800
-  	},
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repositories": [
-       {
-            "type": "git", 
-            "url": "http://github.com/saru95/jsplay.git"
-       }
-],
+    {
+      "type": "git",
+      "url": "http://github.com/saru95/jsplay.git"
+    }
+  ],
   "author": "Sarthak Munshi <sarthakmunshi@gmail.com> (http://sarthakm.me/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "node-webkit-builder": "^1.0.13"
+  }
 }
