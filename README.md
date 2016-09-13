@@ -2,7 +2,7 @@
 
 A torrent streaming media player built in NW.js with peerflix built in 3 hours .
 
-![](http://i.imgur.com/JRh06Gm.gif?1)
+https://www.youtube.com/watch?v=5mYozc_HC9E
 
 ## Install
   Download : `appc.nw` and make sure you have `node` and `nw` installed in the same directory or just run the app using [node-webkit CLI](https://github.com/nwjs/nw.js/wiki/How-to-run-apps) . 
